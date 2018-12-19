@@ -1,0 +1,11 @@
+D:\Repos\csrepos\SúlyozottAtlag2\SúlyozottAtlag2\bin\Debug\SúlyozottAtlag2.exe.config
+D:\Repos\csrepos\SúlyozottAtlag2\SúlyozottAtlag2\bin\Debug\SúlyozottAtlag2.exe
+D:\Repos\csrepos\SúlyozottAtlag2\SúlyozottAtlag2\bin\Debug\SúlyozottAtlag2.pdb
+D:\Repos\csrepos\SúlyozottAtlag2\SúlyozottAtlag2\obj\Debug\SúlyozottAtlag2.csprojAssemblyReference.cache
+D:\Repos\csrepos\SúlyozottAtlag2\SúlyozottAtlag2\obj\Debug\SúlyozottAtlag2.MainForm.resources
+D:\Repos\csrepos\SúlyozottAtlag2\SúlyozottAtlag2\obj\Debug\SúlyozottAtlag2.Properties.Resources.resources
+D:\Repos\csrepos\SúlyozottAtlag2\SúlyozottAtlag2\obj\Debug\SúlyozottAtlag2.csproj.GenerateResource.cache
+D:\Repos\csrepos\SúlyozottAtlag2\SúlyozottAtlag2\obj\Debug\SúlyozottAtlag2.csproj.CoreCompileInputs.cache
+D:\Repos\csrepos\SúlyozottAtlag2\SúlyozottAtlag2\obj\Debug\SúlyozottAtlag2.exe
+D:\Repos\csrepos\SúlyozottAtlag2\SúlyozottAtlag2\obj\Debug\SúlyozottAtlag2.pdb
+D:\Repos\csrepos\SúlyozottAtlag2\SúlyozottAtlag2\obj\Debug\SúlyozottAtlag2.NewClass.resources

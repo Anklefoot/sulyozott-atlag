@@ -1,0 +1,55 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="SulyozottAtlag" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="SulyozottAtlag">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Tantárgyak" msdata:ReadOnly="true" type="xs:string" minOccurs="0" />
+                <xs:element name="Kreditek" msdata:ReadOnly="true" type="xs:int" minOccurs="0" />
+                <xs:element name="Osztályzatok" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <SulyozottAtlag>
+    <Tantárgyak>Számítógép architektúrák</Tantárgyak>
+    <Kreditek>2</Kreditek>
+    <Osztályzatok>2</Osztályzatok>
+  </SulyozottAtlag>
+  <SulyozottAtlag>
+    <Tantárgyak>Formális nyelvek, automaták</Tantárgyak>
+    <Kreditek>5</Kreditek>
+    <Osztályzatok>2</Osztályzatok>
+  </SulyozottAtlag>
+  <SulyozottAtlag>
+    <Tantárgyak>Elemi lineáris algebra</Tantárgyak>
+    <Kreditek>4</Kreditek>
+    <Osztályzatok>2</Osztályzatok>
+  </SulyozottAtlag>
+  <SulyozottAtlag>
+    <Tantárgyak>Programozás 1</Tantárgyak>
+    <Kreditek>5</Kreditek>
+    <Osztályzatok>3</Osztályzatok>
+  </SulyozottAtlag>
+  <SulyozottAtlag>
+    <Tantárgyak>Kalkulus 1</Tantárgyak>
+    <Kreditek>5</Kreditek>
+    <Osztályzatok>2</Osztályzatok>
+  </SulyozottAtlag>
+  <SulyozottAtlag>
+    <Tantárgyak>Diszkrét matematika 1</Tantárgyak>
+    <Kreditek>5</Kreditek>
+    <Osztályzatok>5</Osztályzatok>
+  </SulyozottAtlag>
+  <SulyozottAtlag>
+    <Tantárgyak>Elemi programozás</Tantárgyak>
+    <Kreditek>4</Kreditek>
+    <Osztályzatok>5</Osztályzatok>
+  </SulyozottAtlag>
+</NewDataSet>
